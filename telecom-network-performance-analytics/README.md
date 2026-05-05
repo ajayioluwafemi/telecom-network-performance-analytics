@@ -28,7 +28,7 @@ Raw CSV  →  Pandas EDA  →  SQLite warehouse  →  SQL analysis  →  Churn m
 ```
 
 1. **EDA** — data quality checks, missing values, churn rate by segment
-2. **SQL layer** — load to SQLite, write 8–10 analytical queries (the kind a real BI team would automate as views)
+2. **SQL layer** — load to SQLite, write 8–10 analytical queries
 3. **Predictive model** — logistic regression baseline + random forest, ROC-AUC, feature importance
 4. **Dashboard** — Power BI executive view: KPIs, churn drivers, revenue at risk
 5. **Report** — one-page PDF summary written for non-technical stakeholders
