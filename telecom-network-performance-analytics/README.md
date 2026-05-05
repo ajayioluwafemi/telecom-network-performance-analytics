@@ -106,9 +106,7 @@ jupyter notebook
 
 ## Author
 
-**Ajayi, Oluwafemi Oladayo** — Customer Support Analyst (Network Enterprise Services), MYD Telecoms
-oluwafemiajayi90@gmail.com
+**Ajayi, Oluwafemi Oladayo** 
+femidayo5@gmail.com
 
 ---
-
-_This project was built as a portfolio piece for analyst roles in telecom network business performance. The dataset is public; all analysis and code are original._
