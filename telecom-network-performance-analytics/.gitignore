@@ -1,0 +1,30 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+
+# Data — never commit raw datasets
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*.db
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Power BI temp files
+*.pbix.bak
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+*.ipynb_checkpoints
