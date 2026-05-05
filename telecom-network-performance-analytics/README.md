@@ -9,7 +9,7 @@
 
 ## Problem statement
 
-Telecom operators lose 15–25% of their customer base every year to churn. For an enterprise customer book worth millions in monthly recurring revenue, even a 1% reduction in churn pays for a full analytics team. This project asks two questions a Network Business Performance analyst is paid to answer:
+Telecom operators lose 15–25% of their customer base every year to churn. For an enterprise customer book worth millions in monthly recurring revenue, even a 1% reduction in churn pays for a full analytics team. This project asks two questions as a Network Business Performance analyst:
 
 1. **Where is revenue at risk this month?** Which customer segments are churning fastest, and what's the dollar value of that churn?
 2. **Which customers should we save first?** Given a finite retention budget, which individual customers offer the highest ROI on intervention?
